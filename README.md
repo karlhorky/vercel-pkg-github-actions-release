@@ -1,4 +1,4 @@
-# Automatic GitHub Releases of packages built with Vercel `pkg` using GitHub Actions
+# Creating GitHub Releases of `pkg` Executables using GitHub Actions
 
 ## Introduction
 
