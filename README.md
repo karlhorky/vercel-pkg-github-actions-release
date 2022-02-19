@@ -61,6 +61,6 @@ git push --tags
 
 This will create a new release under Releases on your GitHub repo that will contain the built executables as assets:
 
-![Releases page on GitHub repo showing release with assets](https://user-images.githubusercontent.com/1935696/124388004-fe2bcb00-dce0-11eb-9701-78f06b31b23f.png)
+![Releases page on GitHub repo showing release with assets](https://github.com/karlhorky/vercel-pkg-github-actions-release/raw/main/github-release-v1.png)
 
 Every time that you want to create a new release with assets, create a new tag and push it (steps 2 and 3 above).
