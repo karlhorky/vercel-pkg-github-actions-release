@@ -64,3 +64,8 @@ This will create a new release under Releases on your GitHub repo that will cont
 ![Releases page on GitHub repo showing release with assets](https://github.com/karlhorky/vercel-pkg-github-actions-release/raw/main/github-release-v1.png)
 
 Every time that you want to create a new release with assets, create a new tag and push it (steps 2 and 3 above).
+
+The final version of the workflow and release:
+
+- Workflow: https://github.com/jonaschlegel/lgo-agisoft-converter/blob/main/.github/workflows/release.yml
+- Release: https://github.com/jonaschlegel/lgo-agisoft-converter/releases/tag/v1.0.0
