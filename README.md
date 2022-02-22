@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Vercel's `pkg` allows packaging a Node.js project into an executable, which can run on devices which don't have Node.js installed.
+[Vercel's `pkg`](https://github.com/vercel/pkg) allows packaging a Node.js project into an executable, which can run on devices which don't have Node.js installed.
 
 GitHub Actions can run code on a schedule, allowing for automatically building your `pkg` and releasing to GitHub Releases.
 
